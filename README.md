@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with finding new Project ideas
 - 💬 Ask me about Coding
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/arijit-saha-335a7b195/">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/arijit-saha-335a7b195/" to="_blank">Linkedin</a>
 
 <!--
 **Arijit02/Arijit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
