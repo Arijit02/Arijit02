@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I am an Aspiring Web and App Developer, and a Quantum Computing Enthusiast 👋
 - 🔭 I’m currently working on improving my Web Development skills
 - 🌱 I’m currently learning React.js and Flutter
 - 👯 I’m looking to collaborate on 
