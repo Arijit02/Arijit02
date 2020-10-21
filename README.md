@@ -6,6 +6,9 @@
 - 💬 Ask me about Coding
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arijit-saha-335a7b195/" target="_blank">Linkedin</a>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Arijit02" />
+
 <!--
 **Arijit02/Arijit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
