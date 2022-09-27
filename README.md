@@ -1,9 +1,10 @@
-### Hey there, I am an Aspiring Web and App Developer, and a Quantum Computing Enthusiast 👋
-- 🔭 I’m currently working on improving my Web Development skills
-- 🌱 I’m currently learning React.js and Flutter
-- 👯 I’m looking to collaborate on 
+### Hey there, I am an Aspiring Analog IC Designer, and an amateur Web Developer👋
+## I have tried many things starting from DSA, CP, Web & App Dev, ML/AI, Quantum Computing and have finally realized my passion for VLSI and Analog. 
+- 🔭 I’m currently working on improving my analog circuit designing skills
+- 🌱 I’m eager to learn analog layout design methodologies
+- 👯 I’m looking to collaborate on pure CMOS based design projects
 - 🤔 I’m looking for help with finding new Project ideas
-- 💬 Ask me about Coding
+- 💬 Ask me about Analog and Digital Electronics, Coding and Quantum Computing
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arijit-saha-335a7b195/" target="_blank">Linkedin</a>
 
 
