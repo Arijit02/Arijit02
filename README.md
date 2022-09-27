@@ -1,5 +1,5 @@
-### Hey there, I am an Aspiring Analog IC Designer, and an amateur Web Developer👋
-## I have tried many things starting from DSA, CP, Web & App Dev, ML/AI, Quantum Computing and have finally realized my passion for VLSI and Analog. 
+## Hey there, I am an Aspiring Analog IC Designer, and an amateur Web Developer👋
+### I have tried many things starting from DSA, CP, Web & App Dev, ML/AI, Quantum Computing and have finally realized my passion for VLSI and Analog. 
 - 🔭 I’m currently working on improving my analog circuit designing skills
 - 🌱 I’m eager to learn analog layout design methodologies
 - 👯 I’m looking to collaborate on pure CMOS based design projects
